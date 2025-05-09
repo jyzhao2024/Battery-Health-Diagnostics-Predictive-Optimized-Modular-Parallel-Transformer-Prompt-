@@ -1,4 +1,4 @@
-# Towards Artificial General Intelligence in Battery Health Diagnostics: Predictive Optimized Modular Parallel Transformer (Prompt)
+# PROMPT: PRedictive Optimized Modular Parallel Transformers for Generalizable Battery Health Diagnostics in Electric Vehicles
 This repository contains the source data and code for the prediction results of the PROMPT model proposed in this paper.
 ## Project description
 
