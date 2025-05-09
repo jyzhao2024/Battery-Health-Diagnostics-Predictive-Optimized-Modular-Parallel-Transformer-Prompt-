@@ -13,5 +13,5 @@ For questions, please contact:
 
 **Jingyuan Zhao**    
 University of California Davis
-📧 jyzhao@ucdavis.edu.cn
+**Email:** jyzhao@ucdavis.edu.cn
 
