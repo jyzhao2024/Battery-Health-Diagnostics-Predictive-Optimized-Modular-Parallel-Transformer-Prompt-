@@ -7,4 +7,11 @@ This repository provides:
 - Model prediction results on real-world and lab datasets.
 - Code for visualizing the results and errors of battery capacity estimation.
 - These results are generated using the proposed model described in the paper.
+## 📬 Contact
+
+For questions or collaborations, please contact:
+
+**Zhao [Jingyuan]**    
+University of California Davis
+📧 jyzhao@ucdavis.edu.cn
 
